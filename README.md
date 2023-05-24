@@ -24,4 +24,4 @@
 
 ## BLOGS LIST
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Git &amp; Github](https://devops24.hashnode.dev/git-github)<!-- BLOGPOSTS:END -->
