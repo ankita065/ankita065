@@ -24,4 +24,5 @@
 
 ## BLOGS LIST
 <!-- BLOGPOSTS:START -->
+ - 🚀 [🎗️Concepts to know in GIT &amp; GITHUB 🦋](https://devops24.hashnode.dev/concepts-to-know-in-git-github)
  - 🚀 [Git &amp; Github](https://devops24.hashnode.dev/git-github)<!-- BLOGPOSTS:END -->
