@@ -24,5 +24,6 @@
 
 ## BLOGS LIST
 <!-- BLOGPOSTS:START -->
+ - 🚀 [🎯Bit Complicated concepts of GIT &amp; GITHUB](https://devops24.hashnode.dev/bit-complicated-concepts-of-git-github)
  - 🚀 [🎗️Concepts to know in GIT &amp; GITHUB 🦋](https://devops24.hashnode.dev/concepts-to-know-in-git-github)
  - 🚀 [Git &amp; Github](https://devops24.hashnode.dev/git-github)<!-- BLOGPOSTS:END -->
