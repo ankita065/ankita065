@@ -24,7 +24,7 @@
 
 ## BLOGS LIST
 <!-- BLOGPOSTS:START -->
- - 🚀 [Essential Linux commands you should know !](https://devops24.hashnode.dev/essential-linux-commands-you-should-know)
+ - 🚀 [35 important Linux commands you should know !](https://devops24.hashnode.dev/35-important-linux-commands-you-should-know)
  - 🚀 [🎯Introduction to Linux Users🐧🐧🐧](https://devops24.hashnode.dev/introduction-to-linux-users)
  - 🚀 [🎯Understanding Linux FileSystem Hierarchy](https://devops24.hashnode.dev/understanding-linux-filesystem-hierarchy)
  - 🚀 [📌A Beginner&#39;s Guide to Linux](https://devops24.hashnode.dev/a-beginners-guide-to-linux)
