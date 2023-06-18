@@ -24,8 +24,8 @@
 
 ## BLOGS LIST
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Linux File Permission-reading, writing and executing](https://devops24.hashnode.dev/linux-file-permission-reading-writing-and-executing)
  - 🚀 [35 important Linux commands you should know !](https://devops24.hashnode.dev/35-important-linux-commands-you-should-know)
  - 🚀 [🎯Introduction to Linux Users🐧🐧🐧](https://devops24.hashnode.dev/introduction-to-linux-users)
  - 🚀 [🎯Understanding Linux FileSystem Hierarchy](https://devops24.hashnode.dev/understanding-linux-filesystem-hierarchy)
- - 🚀 [📌A Beginner&#39;s Guide to Linux](https://devops24.hashnode.dev/a-beginners-guide-to-linux)
- - 🚀 [Synopsis 🦋🦋🦋](https://devops24.hashnode.dev/synopsis)<!-- BLOGPOSTS:END -->
+ - 🚀 [📌A Beginner&#39;s Guide to Linux](https://devops24.hashnode.dev/a-beginners-guide-to-linux)<!-- BLOGPOSTS:END -->
