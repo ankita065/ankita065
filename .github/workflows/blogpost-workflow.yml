@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@main
       - name: Pull in hashnode posts
-        uses: ankita065/ankita065@master
+        uses: ankita065/ankita065@main
         with:
           comment_tag_name: "BLOGPOSTS"
           template: "$newline - $randomEmoji(🚀) [$title]($url)"
