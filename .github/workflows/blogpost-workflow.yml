@@ -16,8 +16,5 @@ jobs:
       - name: Pull in hashnode posts
         uses: ankita065/ankita065@main
         with:
-          comment_tag_name: "BLOGPOSTS"
-          template: "$newline - $randomEmoji(🚀) [$title]($url)"
-          commit_message: "recent posts section updated"
           feed_list: "https://devops24.hashnode.dev/rss.xml"
 
